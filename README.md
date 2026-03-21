@@ -119,7 +119,9 @@ Google Cloud Run
 
 ## Author
   Himanshu Saxena
+  
   MSc Artificial Intelligence
+  
   GitHub: https://github.com/HimanshuPhoenix
 
 ## License
