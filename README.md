@@ -1,7 +1,7 @@
 # agentic-ai-platform-gemini-cloud-run
-A production-ready AI agent system built using Google Cloud Generative AI technologies, demonstrating how to design, deploy, and scale agentic applications.
+A production-ready AI agent system built using **Google Cloud Generative AI technologies**, demonstrating how to design, deploy, and scale **agentic applications**.
 
-# Adaptive AI Agent Platform
+# Adaptive AI Agent Platform (Gemini + Cloud Run)
 
 An extensible, production-ready AI agent system built using modern Generative AI concepts.
 
@@ -11,32 +11,35 @@ This project demonstrates how to design, build, and deploy an **autonomous AI ag
 
 ## Project Overview
 
-The Adaptive AI Agent Platform is designed to:
+This project implements an **autonomous AI agent** that can:
 
-- Accept user queries
-- Perform reasoning using an AI agent
-- Fetch real-world data via external tools (APIs)
-- Generate structured, meaningful responses
-- Be deployed as a scalable cloud service (Google Cloud Run)
+- Understand user intent
+- Perform reasoning using LLMs (Gemini)
+- Connect to real-world tools (MCP-style integration)
+- Retrieve and process external data
+- Deliver structured, actionable responses
+
+---
+
+## Built Using Google GenAI Concepts
+
+This project applies key concepts from modern **Google GenAI architecture**:
+
+- 🤖 **Gemini Models** → reasoning and response generation  
+- 🧩 **Agent Development Kit (ADK)** → agent design principles  
+- 🔌 **Model Context Protocol (MCP)** → tool integration  
+- ☁️ **Cloud Run** → scalable deployment  
+- 🗄️ **AlloyDB (optional extension)** → AI-ready data layer  
 
 ---
 
 ## Key Features
 
-- 🤖 **Agentic AI System**
-  - Goal-oriented reasoning and response generation
-
-- 🔌 **Tool Integration (MCP Concept)**
-  - Connects to external APIs (e.g., Wikipedia)
-
-- ☁️ **Cloud Deployment**
-  - Fully deployable on Google Cloud Run
-
-- 🧩 **Modular Architecture**
-  - Easily extendable for new tools, domains, and use cases
-
-- 📊 **Structured Responses**
-  - Outputs organized insights instead of raw text
+- Autonomous AI agent with reasoning capability
+- Integration with external data sources (API-based tools)
+- Modular architecture for easy extension
+- Cloud-native deployment (Google Cloud Run)
+- Designed for real-world, production use cases
 
 ---
 
